@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(bdw.jpg);
+    background: url(bdw.jpg),rgba(0,0,0,0.4);
     background-size: cover;
     background-position: center;
     user-select: none;
